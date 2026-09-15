@@ -6,7 +6,7 @@ The site has Obii's player profile, team history, Praxis results, completely unb
 
 ## What's included
 
-- Obii profile
+- Obii profile and career history
 - 13,109 hours of Dead by Daylight
 - Praxis match archive
 - Obii Rating
